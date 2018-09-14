@@ -4,26 +4,26 @@ Wyszukuje dni w pliku .txt a następnie dodaje je do kalendarza Google przez API
 
 Aby móc skorzystać z tego skryptu należy:
 
-1. Zapoznać się z [**tym poradnikiem od Google**](https://developers.google.com/calendar/quickstart/python) i:
+1. Zapoznać się z [**tym poradnikiem od Google**](https://developers.google.com/calendar/quickstart/python), i:
 
    - zainstalować zależności;
 
    - zdobyć swój **credentials.json**.
 
-+. Wprowadzić własne daty w **dni.txt**.
+- Wprowadzić własne daty w **dni.txt**.
 
-+. W pliku **wyslijdaty.py** zmienić zmienne:
+- W pliku **wyslijdaty.py** zmienić zmienne:
 
-    - event.summary:
+  - event.summary:
 
-        - tytuł twojego eventu w kalendarzu.
+    - tytuł twojego eventu w kalendarzu.
 
-    - event.description:
+  - event.description:
 
-        - opis eventu.
+    - opis eventu.
 
-    - start.date i end.date:
+  - start.date i end.date:
 
-        - zakładając, że jest to całodniowy event.
+    - zakładając, że jest to całodniowy event.
 
-+.**_ELO!_**
+- **_ELO!_**
