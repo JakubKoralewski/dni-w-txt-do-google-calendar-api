@@ -10,20 +10,20 @@ Aby móc skorzystać z tego skryptu należy:
 
    - zdobyć swój **credentials.json**.
 
-- Wprowadzić własne daty w **dni.txt**.
+2. Wprowadzić własne daty w **dni.txt**.
 
-- W pliku **wyslijdaty.py** zmienić zmienne:
+3. W pliku **wyslijdaty.py** zmienić zmienne:
 
-  - event.summary:
+   - event.summary:
 
-    - tytuł twojego eventu w kalendarzu.
+     - tytuł twojego eventu w kalendarzu.
 
-  - event.description:
+   - event.description:
 
-    - opis eventu.
+     - opis eventu.
 
-  - start.date i end.date:
+   - start.date i end.date:
 
-    - zakładając, że jest to całodniowy event.
+     - zakładając, że jest to całodniowy event.
 
-- **_ELO!_**
+4. **_ELO!_**
