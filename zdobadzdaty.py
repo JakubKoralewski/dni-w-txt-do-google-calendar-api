@@ -17,13 +17,5 @@ with open("dni.txt", "r", encoding='utf-8') as dni:
 
         daty.append(data[0])
 
-# test output for UTF-8 encoding # OLL KORREKT
-with open("test.txt", "w+") as test:
-    for data in daty:
-        test.write("{} {}\n".format(data[0], data[1]))
 
-
-print(daty)  # OLL KORREKT
-
-
-# google calendar api
+print(daty)  # OLL KORREKT chek
