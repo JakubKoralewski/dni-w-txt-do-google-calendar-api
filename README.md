@@ -14,15 +14,15 @@ Aby móc skorzystać z tego skryptu należy:
 
 3. W pliku **wyslijdaty.py** zmienić zmienne:
 
-   - event.summary:
+   - *event.summary*:
 
      - tytuł twojego eventu w kalendarzu.
 
-   - event.description:
+   - *event.description*:
 
      - opis eventu.
 
-   - start.date i end.date:
+   - *start.date* i *end.date*:
 
      - zakładając, że jest to całodniowy event.
 
